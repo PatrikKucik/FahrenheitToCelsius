@@ -8,7 +8,7 @@ public class FahrenheitToCelsius {
         double fahrenheit = 99;
         Sledovac fahren_PK = new Sledovac(789);
         fahren_PK.setVlastSledovac(89);
-
+        //dalsi test
 
         System.out.println("Enter temperature in Fahrenheit: ");
         double celsius = (fahren_PK.getVlastSledovac() - 32) * 5 / 9;
